@@ -1,0 +1,15 @@
+React is a javascript library which is used to build dynamic and interactive web pages or user interfaces.
+It was created by facebook in 2011.
+The thinh is while using vanilla javascript the web page is built using a tree structure and it builds on basis of DOM.
+in vanilla javascript the handling of DOM becomes quite difficult in case of big web pages that's where
+react comes in. In case of react we no longer need to worry about querying and updating DOM
+elements instaed we describe an web page using small and reusable components.
+And that's how react takes care of efficiently creating and pdating DOM elements.
+
+
+Mainly in case of react components help us to write reusable, modular and better organized code.
+
+Before react was only a client side rendering library meaning it was used only for the frontend part.
+But now it got merged with next js which is a framework so now it can work as both client side and server side rendering.
+
+Node js is the run time environment for javascript.
